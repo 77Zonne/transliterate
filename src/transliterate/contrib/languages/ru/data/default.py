@@ -2,7 +2,7 @@
 
 mapping = (
     u"abvgdezijklmnoprstufhcC'y'ABVGDEZIJKLMNOPRSTUFH'Y'",
-    u"абвгдезийклмнопрстуфхцЦъыьАБВГДЕЗИЙКЛМНОПРСТУФХЪЫЬ",
+    u"абвгдезижклмнопрстуфхцЦъйьАБВГДЕЗИЖКЛМНОПРСТУФХЪЙЬ",
 )
 
 reversed_specific_mapping = (
